@@ -1,8 +1,8 @@
 <h1>Greetings, I'm Yahchayil Da Silva. 👋</h1><br>
 
 I'm a senior technologist, educator, conference speaker, athlete, and event organizer currently living near Denver, Colorado; and working on distributed key management for blockchain networks.
-
-Professional Interests 💼
+<br>
+<h4 color="red">Professional Interests 💼</h4>
 Teaching is a passion, both as a speaker or one-on-one. Subjects of interest include reverse engineering, network security, radio transmitter hunting, public safety communications, and graphics rendering. I can trace my interest in engineering and education to the Amateur Radio study group I formed with several friends in middle school, which resulted in most of us earning our licenses, myself included.
 
 Today, I continue that tradition of sharing knowledge by authoring technical blog entries, working to build communities through events, and mentoring the next generation of responsible engineers at local makerspaces. 🤝
