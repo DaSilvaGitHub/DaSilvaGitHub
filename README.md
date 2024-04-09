@@ -1,4 +1,11 @@
-Greetings, I'm Yahchayil Da Silva. 👋
+**Greetings, I'm Yahchayil Da Silva. 👋**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 I'm a senior technologist, educator, conference speaker, athlete, and event organizer currently living near Denver, Colorado; and working on distributed key management for blockchain networks.
 
 Professional Interests 💼
